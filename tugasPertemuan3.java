@@ -4,7 +4,7 @@ public class tugasPertemuan3 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
-        System.out.println("=== Program Penghitung IPS Mahasiswa ===");
+        System.out.println("Program Penghitung IPS Mahasiswa");
         System.out.print("Masukkan jumlah mata kuliah: ");
         int jmlMatkul = input.nextInt();
 
